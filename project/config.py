@@ -4,7 +4,7 @@ basedir = os.path.abspath(os.path.dirname(__file__))
 
 DATABASE = 'taskr.db'
 CSRF_ENABLED = True
-SECRET_KEY = ""
+SECRET_KEY = "SECRET"
 
 DATABASE_PATH = os.path.join(basedir, DATABASE)
 
