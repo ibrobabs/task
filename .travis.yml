@@ -13,4 +13,6 @@ deploy:
     secure: Zxp9/9lFP+Gkd6H6L3YXkFhk3/CjPYpUa/4Dk5e+KV4I5a351/8l8zNevV/8YxiG5tLgZJvX1cSVXBYw2m+qm0xTt8Rb8tC35CmHrTBcIJRJOfu3ANPS7WDo3qTdwGPd22vmlEc2ZZRZeJrLopRrjbCKBHQ+ZXOdKa8VcWEvnaomacmMM/w5wHIIKAEIhiuedF+Q4A00xNs1JjkBitSsgmJiw07mO4AbhKNwfmPohKWPZokUq2CaV+3PlCxrspjmnVpud0p/Dl0y/0Pvr27FJDc3yTNrHjfKlTzrhrIvDJMPx79aA6vh0Fe3BKBjSkpi5ClePc0dNU2J03DL3Tm3DcqkLC/e3VhiU2kOCa6rKGbLjzZmb8lBRSTR6qGIM+FQXowXzMQ94kXrcUmTFk614q2ChYhXBCV3OnAsS9564WRuXluNIxCwyud1agKkaZHtYWnkV6RVEDixwVrM2Y5XQqWOfMi5P1FYUuVqB72rg4MDJVFN7oeZzuxuF04jEcGxbjyb9ByxqTBzlfG8NCgOTyvah8v73Bm7rrRwyAs7K4gg4k25Zx55xYBLIm1QyYpyD5QsKlqGyC0Wc3R37XCxG6MMqKWb9UFVhFbU88+To4ab/Gis5GWybwKP8BvXzpJXXpAgA/pIbGK+FvmYt45MwkqL05Hjky4KYbQJG9T0Lew=
   app: ibro
   on:
+    branch: master
+    python: '3.5'
     repo: ibrobabs/task
